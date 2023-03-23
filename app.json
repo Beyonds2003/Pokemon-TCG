@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "pokemon_tcg_marketplace",
+    "slug": "pokemon_tcg_marketplace",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
